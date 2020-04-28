@@ -81,7 +81,7 @@ Here are some of the specification of the framework:
 This is also part of the Odin project curriculum https://www.theodinproject.com/courses/html5-and-css3/lessons/design-your-own-grid-based-framework
 
 <!-- ABOUT THE PROJECT -->
-## Instalation
+## Usage
 
 If you want to use our framework you can clone our repository or use this link in your HTML file: 
 https://github.com/majovainilla/framework/blob/grid-branch/SCSS/main.css
@@ -89,6 +89,10 @@ https://github.com/majovainilla/framework/blob/grid-branch/SCSS/main.css
 If you want to edit or improve the framework you will need SASS installed in your computer (you do it <a href="https://sass-lang.com/">here</a>) and edit the files contained in the SCSS folder.
 
 If you want to contribute to the repo, you can open an issue with your github user name and after being added as a contributo, upload your changes by submiting a pull request.
+
+## Automated Test
+
+> there are no automated tests for this project yet
 
 ### Built With
 This project was built using these technologies.
@@ -110,12 +114,12 @@ You can see a project built with this framework here:  https://euqueme.github.io
 <!-- CONTACT -->
 ## Contact
 
-María José Reyes - [@majovainilla](https://github.com/majovainilla) - maria_reyes@me.com
+👤 María José Reyes - [@majovainilla](https://github.com/majovainilla) - maria_reyes@me.com
 <br />
 <br />
-María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
+👤 María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
 
-Project Link: [https://github.com/majovainilla/framework)
+Project Link: [https://github.com/euqueme/framework)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -127,12 +131,12 @@ Project Link: [https://github.com/majovainilla/framework)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/majovainilla/framework.svg?style=flat-square
-[contributors-url]: https://github.com/majovainilla/framework/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/majovainilla/framework.svg?style=flat-square
-[forks-url]: https://github.com/majovainilla/framework/network/members
-[stars-shield]: https://img.shields.io/github/stars/majovainilla/framework.svg?style=flat-square
-[stars-url]: https://github.com/majovainilla/framework/stargazers
-[issues-shield]: https://img.shields.io/github/issues/majovainilla/framework.svg?style=flat-square
-[issues-url]: https://github.com/majovainilla/framework/issues
+[contributors-shield]: https://img.shields.io/github/contributors/euqueme/framework.svg?style=flat-square
+[contributors-url]: https://github.com/euqueme/framework/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/euqueme/framework.svg?style=flat-square
+[forks-url]: https://github.com/euqueme/framework/network/members
+[stars-shield]: https://img.shields.io/github/stars/euqueme/framework.svg?style=flat-square
+[stars-url]: https://github.com/euqueme/framework/stargazers
+[issues-shield]: https://img.shields.io/github/issues/euqueme/framework.svg?style=flat-square
+[issues-url]: https://github.com/euqueme/framework/issues
 [product-screenshot]: img/screenshot.PNG
