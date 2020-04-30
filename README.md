@@ -47,6 +47,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Usage](#usage)
+* [Automated test](#automated-test)
 * [Live Version](#live-version)
 * [Author](#contact)
 * [Contributing](#Contributing)
