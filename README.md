@@ -49,7 +49,7 @@
 * [Usage](#usage)
 * [Automated test](#automated-test)
 * [Live Version](#live-version)
-* [Author](#contact)
+* [Author](#author)
 * [Contributing](#Contributing)
 * [Acknowledgements](#acknowledgements)
 
