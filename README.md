@@ -46,8 +46,10 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [Usage](#usage)
 * [Live Version](#live-version)
-* [Contact](#contact)
+* [Author](#contact)
+* [Contributing](#Contributing)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
@@ -80,6 +82,18 @@ Here are some of the specification of the framework:
 
 This is also part of the Odin project curriculum https://www.theodinproject.com/courses/html5-and-css3/lessons/design-your-own-grid-based-framework
 
+### Built With
+This project was built using these technologies.
+* HTML
+* CSS3
+* SCSS
+* Stickler
+* VsCode
+* Atom
+* Notepad++
+* Prettier 
+* Koala
+
 <!-- ABOUT THE PROJECT -->
 ## Usage
 
@@ -94,32 +108,28 @@ If you want to contribute to the repo, you can open an issue with your github us
 
 > there are no automated tests for this project yet
 
-### Built With
-This project was built using these technologies.
-* HTML
-* CSS3
-* SCSS
-* Stickler
-* VsCode
-* Atom
-* Notepad++
-* Prettier 
-* Koala
-
 <!-- LIVE VERSION -->
 ## Live version
 
 You can see a project built with this framework here:  https://euqueme.github.io/framework-demo/
 
 <!-- CONTACT -->
-## Contact
+## Author
 
 👤 María José Reyes - [@majovainilla](https://github.com/majovainilla) - maria_reyes@me.com
 <br />
 <br />
 👤 María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
 
-Project Link: [https://github.com/euqueme/framework)
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/euqueme/Blogger-Rails/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
